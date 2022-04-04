@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (VisualCha2.0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Chasoft Visual Cha 2.0.cpp
+C:\Users\91451\Documents\prscrn Files\VisualCha2.0\VisualCha2.0\Chasoft Visual Cha 2.0.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\91451\Documents\prscrn Files\VisualCha2.0\VisualCha2.0\Chasoft Visual Cha 2.0.cpp(157,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  VisualCha2.0.vcxproj -> C:\Users\91451\Documents\prscrn Files\VisualCha2.0\x64\Debug\Chasoft Visual Cha 2.0.exe
