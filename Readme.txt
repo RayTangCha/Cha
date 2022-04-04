@@ -6,3 +6,4 @@ NSIS Nullsoft-and Contributors
 Visual Studio 2022 Community-Microsoft Coorperation
 Cha is our important idea 
 Thank you for appreciating it
+!NOTE:Use Easyx or you can't compile
