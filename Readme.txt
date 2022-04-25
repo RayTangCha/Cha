@@ -1,9 +1,7 @@
 Visual Cha 2.0 
-(c)Chasoft, Inc.
-Thanks for the following sources
-NIS Edit-Hector Marucio Roderiguez Segura
-NSIS Nullsoft-and Contributors
-Visual Studio 2022 Community-Microsoft Coorperation
-Cha is our important idea 
-Thank you for appreciating it
-!NOTE:Use Easyx or you can't compile
+GPL 3.0 License
+How to run it
+A:get the corresponding pictures, load them in the correct dirrectory and compile the .cpp file
+B:get the .exe file and run it
+Rules
+Press the "See rules" button on the mai page.
