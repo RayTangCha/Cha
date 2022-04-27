@@ -4,4 +4,6 @@ How to run it
 A:get the corresponding pictures, load them in the correct dirrectory and compile the .cpp file
 B:get the .exe file and run it
 Rules
-Press the "See rules" button on the mai page.
+Press the "See rules" button on the main page.
+
+The latest version allows you to buy the skin you wanted.
